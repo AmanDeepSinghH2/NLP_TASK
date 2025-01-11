@@ -1,4 +1,7 @@
 # NLP_TASK
+i was stuck at some point, i have used some references and a little help from github copilot
+
+
 # INSTRUCTIONS FOR NLP COMPETITION!
 
 ## Step 1
